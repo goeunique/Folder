@@ -1,0 +1,173 @@
+.column1{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.call{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    margin-top: 10px;
+}
+.email{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-right: 700px;
+}
+.sub-call{
+    margin-top: -11px;
+    margin-left: 10px;
+}
+.sub-email{
+    margin-top: -11px;
+    margin-left: 10px;
+}
+.login{
+    margin-right: 200px;
+    margin-top: -3px;
+}
+#login1{
+    text-decoration: none;
+    color: white;
+}
+/*.login a:hover{
+    color: blue;
+}*/
+.column2{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.edusmart{
+    padding-left: 150px;
+    margin-top: -5px;
+}
+#home{
+    margin-left: 50px;
+    color: blue;
+}
+.contact{
+    margin-right: 50px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+    list-style: none;
+    margin-right: 100px;
+    margin-top: 10px;
+    
+}
+ul li a{
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+ul li a:hover{
+    color:blue;
+}
+ul i{
+    margin-top: 10px;
+    margin-right: 200px;
+}
+.column3{
+    background-image: url("student.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 20% 20%;
+    margin-top: -10px;
+    height: 530px;
+    padding-left: 160px;
+    padding-top: 130px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    font-size: 20px;
+    line-height: 18px;
+}
+.paragraph{
+    font-size: small;
+    line-height: 8px;
+    margin-top: 40px;
+}
+.search{
+    margin-top: 70px;
+}
+.search1{
+    height: 60px;
+    width: 300px;
+    padding-left: 20px;
+    opacity: 0.3;
+}
+.btn{
+    background-image: linear-gradient(90deg,rgb(10, 152, 199),aqua);
+    height: 40px;
+    width: 100px;
+    border:none;
+    color: white;
+    margin-left: -50px;
+    position: absolute;
+    margin-top: 10px;
+}
+.column4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    margin-left: 800px;
+    margin-top: -320px;
+    padding-right: 70px;
+}
+.class{
+    background-image: linear-gradient(90deg,rgb(243, 134, 152), rgb(223, 152, 22));
+    margin-right: 200px;
+    margin-left: 20px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.sub-class{
+    margin-top: -34px;
+    margin-left: 30px;
+}
+.courses{
+    background-image: linear-gradient(90deg,rgb(114, 114, 204), rgb(233, 122, 233));
+    margin-right: 200px;
+    margin-left: 20px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.sub-courses{
+    margin-top: -34px;
+    margin-left: 30px;
+}
+.books{
+    background-image: linear-gradient(90deg,rgb(10, 152, 199),aqua);
+    margin-right: 200px;
+    margin-left: 20px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.sub-books{
+    margin-top: -34px;
+    margin-left: 30px;
+}
+.sub-column4{
+    font-size: 20px;
+}
+.sub-column4-1{
+    line-height: 0.5px;
+    padding-top: 15px;
+}

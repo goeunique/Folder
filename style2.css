@@ -1,0 +1,264 @@
+.column1 {
+    background-image: url("z1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 30% 30%;
+    height: 700px;
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.studylab {
+    background-image: linear-gradient(110deg, purple, blue);
+    height: 55px;
+    width: 130px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 11px;
+    text-align: center;
+    padding-top: 8px;
+    margin-left: 200px;
+    margin-right: 1290px;
+    color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 900px;
+    padding-right: 200px;
+    margin-top: -30px;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#home {
+    color: rgb(24, 101, 243);
+}
+
+.Welcome {
+    padding-top: 190px;
+    padding-left: 200px;
+    color: white;
+}
+
+.welcome {
+    font-size: 13px;
+}
+
+.sub-we {
+    line-height: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+.sub-for {
+    padding-top: 10px;
+}
+
+.sub-for1 {
+    margin-top: -12px;
+}
+.button{
+    padding-left: 200px;
+    padding-top: 10px;
+}
+.button1{
+    background-color: rgb(24, 101, 243);
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+.button2{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border: none;
+}
+form{
+    background-image: linear-gradient(170deg,rgb(255, 255, 255), rgb(204, 200, 200));
+    width: 320px;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 900px;
+    margin-top: -210px;
+    border-radius: 5px;
+}
+.register{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(24, 101, 243);
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    font-size: 15px;
+}
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+    height: 32px;
+    width: 250px;
+    padding-left: 10px;
+    border-color: transparent;
+}
+.fa-envelope{
+    padding-left: 5px;
+    padding-top: 3px;
+    background-color: blue;
+    width: 23px;
+    height: 20px;
+    margin-left: 230px;
+    border-radius: 2px;
+}
+.account{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 25px;
+    font-size: 14px;
+}
+#signin{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Start{
+    padding-top: 160px;
+    padding-left: 10px;
+    text-align: center;
+    line-height: 20px;
+}
+.start{
+    color: rgb(24, 101, 243);
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.browse{
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#signin{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(24, 101, 243);
+}
+
+.images{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 70px;
+    margin-left : 90px;
+    margin-right: 90px;
+}
+.it{
+    background-image: url("it.jpg");
+    background-size: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 190px;
+    border-radius: 80%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 60px;
+}
+.music{
+    background-image: url("music.jpg");
+    background-size: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 190px;
+    border-radius: 80%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 60px;
+}
+.photo{
+    background-image: url("photography.jpg");
+    background-size: 300px;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 190px;
+    border-radius: 80%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 60px;
+}
+.marketing{
+    background-image: url("marketing.jpeg");
+    background-size: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 190px;
+    border-radius: 80%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 60px;
+}
+.health{
+    background-image: url("health.jpg");
+   background-size: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 190px;
+    border-radius: 80%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 60px;
+}
+.audio{
+    background-image: url("audio.jpg");
+    background-size: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 140px;
+    width: 190px;
+    border-radius: 80%;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    padding-top: 60px;
+}
+.see{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: palevioletred;
+    width: 140px;
+    text-align: center;
+    height: 28px;
+    margin-top: 50px;
+    margin-left: 718px;
+    border-radius: 5px;
+    font-weight: bold;
+    padding-top: -1px;
+}
+.course {
+    color: white;
+}
+#c{
+    text-decoration: none;
+}
